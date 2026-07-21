@@ -11,16 +11,16 @@ import bibliophilebird from '@/asset/img/8.png';
 
 // --- data ---------------------------------------------------------------
 const cards = reactive([
-  { caption: 'BibliophileBird', src: bibliophilebird,  alt: 'bibliophileBird-logo-img', href: 'https://github.com/MEANLEAPHA', des:'Online Book store' },
-  { caption: 'Otthor Store', src: otthorstore,  alt: 'otthorStore-logo-img', href: 'https://github.com/MEANLEAPHA', des:'Online Book store, Toy, Art and Secondhand'},
-  { caption: 'Spammy', src: spammy ,   alt: 'Spammy-logo-img', href: 'https://github.com/MEANLEAPHA', des:'Spam feature built in Nahidea site'},
-  { caption: 'The Green Riddle', src: thegreenriddle, alt: 'Thegreenriddle-logo-img', href: 'https://github.com/MEANLEAPHA', des: 'Friendly Tracking network tool, JWT convertor and Hash guessing' },
-  { caption: 'Nahidea', src: naidea,  alt: 'Nahidea-logo-img', href: 'https://github.com/MEANLEAPHA', des:'Social Community - sharing confession, content and ask question' },
-  { caption: 'Reminwho', src: remindwho,    alt: 'Remindwho-logo-img', href: 'https://github.com/MEANLEAPHA', des: 'Friendly reminder on important task or event for self reminder and friend reminder'},
-  { caption: 'Gossiper',  src: gossiper,   alt: 'Gossiper-logo-img', href: 'https://github.com/MEANLEAPHA', des: 'Real time chat system built in Nahidea site'},
-  { caption: 'PicoColor',src: picocolor, alt: 'picoColor-logo-img', href: 'https://github.com/MEANLEAPHA', des: 'Friendly  color palette generator matching' },
+  { caption: 'BibliophileBird', src: bibliophilebird,  alt: 'bibliophileBird-logo-img', href: 'https://darkgreen-skunk-194544.hostingersite.com/', des:'Online Book store' },
+  { caption: 'Otthor Store', src: otthorstore,  alt: 'otthorStore-logo-img', href: 'https://otthor.com', des:'Online Book store, Toy, Art and Secondhand'},
+  { caption: 'Spammy', src: spammy ,   alt: 'Spammy-logo-img', href: 'https://nahidea.com/spammy', des:'Spam feature built in Nahidea site'},
+  { caption: 'Nahidea', src: naidea,  alt: 'Nahidea-logo-img', href: 'https://nahidea.com', des:'Social Community - sharing confession, content and ask question' },
+  { caption: 'Reminwho', src: remindwho,    alt: 'Remindwho-logo-img', href: 'https://remindwho.site', des: 'Friendly reminder on important task or event for self reminder and friend reminder'},
+  { caption: 'Gossiper',  src: gossiper,   alt: 'Gossiper-logo-img', href: 'https://nahidea.com/chat', des: 'Real time chat system built in Nahidea site'},
+  { caption: 'PicoColor',src: picocolor, alt: 'picoColor-logo-img', href: 'https://picocolor.online', des: 'Friendly  color palette generator matching' },
  
 ])
+
 const trackRef = ref(null)
 const cardEls = new Map() // index -> element, kept outside reactivity on purpose
 

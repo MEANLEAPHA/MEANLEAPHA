@@ -2,23 +2,23 @@
 const experiences = [
   {
     year: "November 22, 2024 - March 15, 2025",
-    title: "Freelance Graphics Designer",
-    description: "Designed martketing posters for Bayon Web"
+    title: "Graphics Designer & Marketing",
+    description: "Designed marketing posters as Facebook page admin for Bayon Web"
   },
   {
     year: "February 2, 2025 - July 23, 2025",
     title: "Book Seller in College",
-    description: "Selling books to Western University students in campus for 1 week then continued to sell in on my website called BibliophileBird to consumers."
+    description: "Running a book stall for Western University students on campus."
   },
   {
     year: "November 16, 2025 - Present",
-    title: "Online Seller in Khmer24",
-    description: "Created an ecommerce website called Otthor Store to sell artwork, books, toys and secondhand items."
+    title: "Running an E-commerce Store",
+    description: "Selling books, toys&games, artwork, and other items on Otthor store ."
   },
   {
     year: "March 24, 2026 - Present",
-    title: "Working on Full-Stack Social Community site",
-    description: "Gather every knowledge i have learn from college, online and self study to build and maintain a social community site called Nahidea from scratch."
+    title: "Project Lead - Nahidea",
+    description: "Led project development for Nahidea social community site."
   },
 ]
 </script>
