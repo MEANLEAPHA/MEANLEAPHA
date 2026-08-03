@@ -2,11 +2,11 @@
 import { ref } from 'vue'
 
 const activeLearning = ref([
-  { subject: "Linux Server Administration", progress: 10, gradient: "linear-gradient(90deg, #2563eb, #10b981)" },
-  { subject: "AI and Machine Learning", progress: 10, gradient: "linear-gradient(90deg, #ef4444, #f59e0b)" },
-  { subject: "Software Engineering SDLC", progress: 10, gradient: "linear-gradient(90deg, #7c3aed, #2563eb)" },
+  { subject: "Linux Server Administration", progress: 25, gradient: "linear-gradient(90deg, #2563eb, #10b981)" },
+  { subject: "AI and Machine Learning", progress: 30, gradient: "linear-gradient(90deg, #ef4444, #f59e0b)" },
+  { subject: "Software Engineering SDLC", progress: 20, gradient: "linear-gradient(90deg, #7c3aed, #2563eb)" },
   { subject: "DevOps Essential", progress: 10, gradient: "linear-gradient(90deg, #14b8a6, #ec4899)" },
-  { subject: "Type Script / Angular", progress: 15, gradient: "linear-gradient(90deg, #14b8a6, #ec4899)" },
+  { subject: "Type Script / Angular", progress: 70, gradient: "linear-gradient(90deg, #14b8a6, #ec4899)" },
   { subject: "Vue JS", progress: 55, gradient: "linear-gradient(90deg, #14b8a6, #ec4899)" },
   { subject: "Laravel", progress: 65, gradient: "linear-gradient(90deg, #14b8a6, #ec4899)" },
   { subject: "MongoDB", progress: 40, gradient: "linear-gradient(90deg, #14b8a6, #ec4899)" },
