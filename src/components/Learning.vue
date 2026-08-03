@@ -8,7 +8,7 @@ const activeLearning = ref([
   { subject: "DevOps Essential", progress: 10, gradient: "linear-gradient(90deg, #14b8a6, #ec4899)" },
   { subject: "Type Script / Angular", progress: 70, gradient: "linear-gradient(90deg, #14b8a6, #ec4899)" },
   { subject: "Vue JS", progress: 55, gradient: "linear-gradient(90deg, #14b8a6, #ec4899)" },
-  { subject: "Laravel", progress: 65, gradient: "linear-gradient(90deg, #14b8a6, #ec4899)" },
+  { subject: "Laravel", progress: 60, gradient: "linear-gradient(90deg, #14b8a6, #ec4899)" },
   { subject: "MongoDB", progress: 40, gradient: "linear-gradient(90deg, #14b8a6, #ec4899)" },
   { subject: "Spanish Language", progress: 15, gradient: "linear-gradient(90deg, #14b8a6, #ec4899)" },
 ])
