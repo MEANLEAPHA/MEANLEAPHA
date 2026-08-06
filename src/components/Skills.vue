@@ -4,7 +4,7 @@ import { faDatabase, faDesktop, faCode, faPalette, faServer, faCodeMerge, faLeft
 import { faGithub } from '@fortawesome/free-brands-svg-icons';
 
 const hardSkills = [
-  {label: 'Languages:', value: "JavaScript, PHP, C#, Dart, Java, SQL, C++, HTML, CSS", icon: faCode},
+  {label: 'Languages:', value: "JavaScript, PHP, C#, Dart, Java, SQL, Python, C++, HTML, CSS", icon: faCode},
   {label: 'Frontend:', value: "React, Vue, Flutter", icon: faDesktop},
  
   {label: 'Design:', value: "Figma, Adobe Photoshop,  Canva, Vegas Pro, Cap Cut", icon: faPalette},
